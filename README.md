@@ -61,9 +61,9 @@ Technologies used in the project:
 *   react
 *   tailwind css
 
-<h2>🛡️ License:</h2>
+<h2>🛡️ BY:</h2>
 
-This project is licensed under the : https://www.frontendmentor.io/
+https://www.frontendmentor.io/
 
 <h2>💖Like my work?</h2>
 
